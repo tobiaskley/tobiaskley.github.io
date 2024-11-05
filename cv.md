@@ -15,7 +15,7 @@ permalink: /cv/
   - Permanent Scientific Staff
 - **University of Bristol**, 2018–2020
   - Lecturer in Statistical Science
-  - Co-Director des Centre for Doctoral Training ([COMPASS](https://www.bristol.ac.uk/cdt/compass/))
+  - Co-Director of the Centre for Doctoral Training ([COMPASS](https://www.bristol.ac.uk/cdt/compass/))
 - **London School of Economics**, 2015–2018
   - Postdoctoral Research Officer
  

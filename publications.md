@@ -13,7 +13,7 @@ permalink: /publications/
 
 - **Kley, T.**, Liu, Y. P., Cao, H., Wu, W. B. (2024+) Change Point Analysis with Irregular Signals. *Annals of Statistics*. [arXiv](https://arxiv.org/abs/2409.08863)
 
-- Anastasiou, A., **Kley, T.** (2023). Wasserstein Distance Bounds on the Normal Approximation of Empirical Autocovariances and Cross-Covariances under Non-Stationarity and Stationarity. *Journal of Time Series Analysis*. [DOI](https://doi.org/10.1111/jtsa.12716) [arXiv](https://arxiv.org/abs/2305.04290)
+- Anastasiou, A., **Kley, T.** (2023). Wasserstein Distance Bounds on the Normal Approximation of Empirical Autocovariances and Cross-Covariances under Non-Stationarity and Stationarity. *Journal of Time Series Analysis*, 45(3), 361-375. [DOI](https://doi.org/10.1111/jtsa.12716) [arXiv](https://arxiv.org/abs/2305.04290)
 
 - Goto, Y., **Kley, T.**, Van Hecke, R., Volgushev, S., Dette, H., Hallin, M. (2022). The Integrated Copula Spectrum. *Annals of Statistics*, 50(6), 3563-3591. [DOI](https://doi.org/10.1214/22-AOS2240) [arXiv](https://arxiv.org/abs/2112.07077)
 

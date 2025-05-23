@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Peer-Reviewed Journal Articles
 
-- **Kley, T.**, Liu, Y. P., Cao, H., Wu, W. B. (2024) Change Point Analysis with Irregular Signals. *Annals of Statistics*, 52(6), 2913-2930. [arXiv](https://arxiv.org/abs/2409.08863)
+- **Kley, T.**, Liu, Y. P., Cao, H., Wu, W. B. (2024) Change Point Analysis with Irregular Signals. *Annals of Statistics*, 52(6), 2913-2930. [DOI](https://doi.org/10.1214/24-AOS2451) [arXiv](https://arxiv.org/abs/2409.08863)
 
 - Anastasiou, A., **Kley, T.** (2023). Wasserstein Distance Bounds on the Normal Approximation of Empirical Autocovariances and Cross-Covariances under Non-Stationarity and Stationarity. *Journal of Time Series Analysis*, 45(3), 361-375. [DOI](https://doi.org/10.1111/jtsa.12716) [arXiv](https://arxiv.org/abs/2305.04290)
 

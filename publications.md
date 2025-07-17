@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Accepted Articles
 
-- Cho, H., **Kley, T.**, Li, H. (2025+). Detection and inference of changes in high-dimensional linear regression with non-sparse structures. *Journal of the Royal Statistical Society: Series B*, to appear.  [arxiv](https://arxiv.org/abs/2402.06915)
+- Cho, H., **Kley, T.**, Li, H. (2025+). Detection and inference of changes in high-dimensional linear regression with non-sparse structures. *Journal of the Royal Statistical Society: Series B*, to appear. [DOI](https://doi.org/10.1093/jrsssb/qkaf029) [arxiv](https://arxiv.org/abs/2402.06915)
 
 
 ## Peer-Reviewed Journal Articles

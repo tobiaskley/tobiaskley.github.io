@@ -4,12 +4,9 @@ title: "Publications"
 permalink: /publications/
 ---
 
-## Accepted Articles
-
-- Cho, H., **Kley, T.**, Li, H. (2025+). Detection and inference of changes in high-dimensional linear regression with non-sparse structures. *Journal of the Royal Statistical Society: Series B*, to appear. [DOI](https://doi.org/10.1093/jrsssb/qkaf029) [arxiv](https://arxiv.org/abs/2402.06915)
-
-
 ## Peer-Reviewed Journal Articles
+
+- Cho, H., **Kley, T.**, Li, H. (2025+). Detection and inference of changes in high-dimensional linear regression with non-sparse structures. *Journal of the Royal Statistical Society: Series B*, 87(5), 1528-1552. [DOI](https://doi.org/10.1093/jrsssb/qkaf029) [arxiv](https://arxiv.org/abs/2402.06915)
 
 - **Kley, T.**, Liu, Y. P., Cao, H., Wu, W. B. (2024) Change Point Analysis with Irregular Signals. *Annals of Statistics*, 52(6), 2913-2930. [DOI](https://doi.org/10.1214/24-AOS2451) [arXiv](https://arxiv.org/abs/2409.08863)
 

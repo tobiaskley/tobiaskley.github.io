@@ -4,6 +4,12 @@ title: "Publications"
 permalink: /publications/
 ---
 
+## Submitted Articles
+
+- **Kley, Tobias**, Lou, Zhipeng, Wu, Wei Biao (2026). Constructing Prediction Intervals for High-Dimensional Time Series with Controlled Predictive Coverage Proportion.
+
+- Barth, Christoph, Anastasiou, Andreas, **Kley, Tobias** (2026). Uniform quantitative central limit theorems for empirical auto- and cross-covariances under increasing dependence.
+
 ## Peer-Reviewed Journal Articles
 
 - Cho, H., **Kley, T.**, Li, H. (2025). Detection and inference of changes in high-dimensional linear regression with non-sparse structures. *Journal of the Royal Statistical Society: Series B*, 87(5), 1528-1552. [DOI](https://doi.org/10.1093/jrsssb/qkaf029) [arxiv](https://arxiv.org/abs/2402.06915)
